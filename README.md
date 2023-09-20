@@ -12,7 +12,7 @@ In a separate .ipunb file, the validation procedures of the finetuned model are 
 the following question/answer pairs were produced:
 
 
-| Attempt | True Answer | 4 epochs model | 10 epochs model |
+|  | True Answer | 4 epochs model | 10 epochs model |
 | :-----: | :---: | :---: | :---: |
 | In which comics does Batman appear? | DC Comics | bruce wayne | DC Comics |
 

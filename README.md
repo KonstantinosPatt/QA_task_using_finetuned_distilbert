@@ -1,4 +1,4 @@
-# QA_task_using_fintuned_distilbert
+# QA_task_using_finetuned_distilbert
 A finetuned version of Bert is used for this Question-Answering task. The validation part of the 1.1 SQUAD dataset was used for the finetuning
 
 ## Introduction

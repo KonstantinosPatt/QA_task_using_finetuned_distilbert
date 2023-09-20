@@ -15,6 +15,8 @@ the following question/answer pairs were produced:
 |  | True Answer | 4 epochs model | 10 epochs model |
 | :-----: | :---: | :---: | :---: |
 | In which comics does Batman appear? | DC Comics | bruce wayne | DC Comics |
+| Who created the character? | Bob Kane and writer Bill Finger | bob kane | bob kane and writer bill finger |
+| When did Batman debut? | March 30, 1939 | march 30, 1939 | march 30, 1939 |
 
 After this, the same function was used to go through 200 random texts from the SQUAD train set. The mean f1 score for all the answers to these texts was 0.3069 for the 4 epochs model and 0.2967 for the 10 epochs model.
 
